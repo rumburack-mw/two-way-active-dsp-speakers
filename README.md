@@ -1,4 +1,4 @@
-#Two-Way Active DSP Speakers
+Two-Way Active DSP Speakers
 
 Overview
 
