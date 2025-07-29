@@ -1,6 +1,7 @@
 Two-Way Active DSP Speakers
 
-Overview
+
+
 
 Two-way active DSP  speaker system. 
 
