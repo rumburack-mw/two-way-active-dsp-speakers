@@ -4,7 +4,6 @@ Overview
 
 Two-way active DSP  speaker system. 
 
-Features
 3D printed
 Two-Way Speaker Design: Utilizes separate drivers for low and high frequencies. 
 Active DSP Processing: Implements digital crossovers for precise audio tuning.
